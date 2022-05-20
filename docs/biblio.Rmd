@@ -1,7 +1,8 @@
 ---
-title: "Bibliografia para a aula no curso Metodologias de pesquisa em humanidades digitais (PPGHCS/COC/FIOCRUZ)"
-author: "Eric Brasil"
-date: '2022-04-04'
+title: "Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian"
+subtitle: "Bibliografia para o webinar organizado pelo LHUD/FGV/CPDCO"
+author: "[Eric Brasil](https://ericbrasiln.github.io)"
+date: '20 de maio de 2022'
 output: html_document
 ---
 
