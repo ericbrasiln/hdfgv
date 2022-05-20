@@ -35,6 +35,12 @@ Updated: 2022-05-19
   font-size: 30px;
 }
 
+.bg_green body {
+  color: #dab6c4;
+  line-height: 1.0em;
+  font-size: 30px;
+}
+
 /* slightly spacing change */
 .bg_yellow h1 {
   color: #27474e;
@@ -49,6 +55,12 @@ Updated: 2022-05-19
 }
 
 .bg_yellow h3 {
+  color: #27474e;
+  line-height: 1.0em;
+  font-size: 30px;
+}
+
+.bg_yellow body {
   color: #27474e;
   line-height: 1.0em;
   font-size: 30px;
