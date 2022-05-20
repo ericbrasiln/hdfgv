@@ -1,6 +1,6 @@
 # Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian
 
-Palestra no webinar organizado pelo LHUD/FGV/CPDCO.
+Palestra no webinar organizado pelo LHUD/FGV/CPDOC.
 
 20 de maio de 2022
 

@@ -1,6 +1,6 @@
 ---
 title: "Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian"
-subtitle: "Bibliografia para o webinar organizado pelo LHUD/FGV/CPDCO"
+subtitle: "Bibliografia para o webinar organizado pelo LHUD/FGV/CPDOC"
 author: "[Eric Brasil](https://ericbrasiln.github.io)"
 date: '20 de maio de 2022'
 output: html_document
