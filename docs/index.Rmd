@@ -2,8 +2,8 @@
 title: "Criação, manutenção e divulgação de projetos de História em meios digitais"
 subtitle: "<br>git, GitHub e o Programming Historian<br><br><br><br><br>"
 description: "Webinar do LHUD (FGV/CPDOC)"
-author: "Eric Brasil (IHLM/UNILAB)<br>ericbrasiln@proton.me<br>"
-date: "<br>20 de maio de 2022<br>Webinar do LHUD-FGV/CPDOC"
+author: "Eric Brasil (IHLM/UNILAB)<br>ericbrasiln@proton.me"
+date: "<br>20 de maio de 2022<br>Webinar do LHUD-FGV/CPDOC<br><br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6566754.svg)](https://doi.org/10.5281/zenodo.6566754)"
 encoding: "UTF-8"
 output:
   xaringan::moon_reader:
